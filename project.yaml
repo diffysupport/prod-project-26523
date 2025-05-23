@@ -33,7 +33,7 @@ basic:
 advanced:
     mask: ''
     remove: ''
-    isolate: ''
+    isolate: '#cookie-overlay'
     delay: 15
     scroll: true
     headers:
